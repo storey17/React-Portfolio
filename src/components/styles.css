@@ -1,0 +1,98 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-image: url(./IMG_2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+    background-color: #91BDC0; 
+    padding: 5px 5px 5px 10px;
+}
+
+#fixed-navbar {
+    background-color: #D8E9ED;
+    padding: 0%;
+}
+
+.navbar-nav.social-media {
+    flex-direction: inherit;
+}
+
+.fa-linkedin-in, .fa-github {
+    color: #404040;
+}
+
+#contact-button {
+    background-color: #CAD66F;
+    border-style: none;
+    color: black;
+    font-weight: bold;
+}
+
+a#contact-button:hover {
+    background-color: #CDDEAB;
+}
+
+.main-content {
+    color: white;
+    margin-bottom: 0;
+  }
+
+#about-me {
+    opacity: 65%;
+    background-color: white;
+    padding: 15px;
+    color: black;
+}
+
+.img {
+    border-radius: .25rem;
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.col-sm-7 {
+    margin: 10px;
+}
+
+.row {
+    margin: 15px 0 15px 15px;
+}
+
+h1 {
+    font-size: 40px;
+    color: #cd00cd;
+    margin: 0px 0px 0px 10px;
+    font-family: 'Spartan', sans-serif;
+    font-weight: bold;
+}
+
+.title {
+    margin-bottom: 2rem;
+}
+
+.col-sm-3 {
+    margin: 0 10px 10px 10px;
+}
+
+#styling {
+    margin: 25px 25px 25px 25px;
+    background-color: lightgray;
+    padding: 10px 10px 0px 10px;
+    border-style: solid;
+    border-width: 1px;
+    width: 90%;
+}
+
+form {
+    background-color: lightgray;
+    margin: 25px;
+    padding: 10px 50px 50px 50px;
+}
+
+footer {
+    background-color: #91BDC0;
+  }
