@@ -41,7 +41,7 @@ a#contact-button:hover {
   }
 
 #about-me {
-    opacity: 65%;
+    opacity: .65;
     background-color: white;
     padding: 15px;
     color: black;
